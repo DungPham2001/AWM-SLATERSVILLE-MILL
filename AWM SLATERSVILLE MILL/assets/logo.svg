@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="AWM SLATERSVILLE MILL, LLC logo">
+  <circle cx="32" cy="32" r="30" fill="#13293d" stroke="#c6a57a" stroke-width="2"/>
+  <!-- sawtooth mill roof -->
+  <path d="M13 29 L13 22 L22 29 L22 22 L31 29 L31 22 L40 29 L40 22 L51 29 Z" fill="#c6a57a"/>
+  <!-- building body -->
+  <rect x="13" y="29" width="38" height="20" fill="#f4efe6"/>
+  <!-- chimney -->
+  <rect x="44" y="13" width="5" height="16" fill="#c6a57a"/>
+  <rect x="43" y="11" width="7" height="3" fill="#c6a57a"/>
+  <!-- windows -->
+  <rect x="17" y="33" width="5" height="6" fill="#13293d"/>
+  <rect x="25" y="33" width="5" height="6" fill="#13293d"/>
+  <rect x="33" y="33" width="5" height="6" fill="#13293d"/>
+  <rect x="41" y="33" width="5" height="6" fill="#13293d"/>
+  <!-- door -->
+  <rect x="28" y="41" width="8" height="8" fill="#8d6844"/>
+  <!-- ground line -->
+  <rect x="10" y="49" width="44" height="2.5" fill="#c6a57a"/>
+</svg>
